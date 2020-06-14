@@ -1,0 +1,116 @@
+Index of issues to address
+
+GENERAL TOC
+  BASICS
+  BREAKDOWNS
+  CONCEPTS
+  TRANSACTIONS, DOCUMENTS, WORKSTREAMS
+  GLOSSARY OF TERMS
+
+*******
+
+SPECIFIC TOC
+  BASICS
+    EXPLANATION OF CAPITAL MARKETS
+    HISTORY
+    TYPES OF TRANSACTIONS, INSTRUMENTS
+  BREAKDOWNS
+  CONCEPTS
+  TRANSACTIONS, DOCUMENTS, WORKSTREAMS
+    TRANSACTION TYPES / CATEGORIES
+    TIMELINES & STEP OUTLINES
+    SUBSTANTIVE EXPLANATIONS
+    REVIEW CHECKLISTS
+    FORMS & EXAMPLES
+  OTHER ISSUES
+  GLOSSARY OF TERMS
+  BIBLIOGRAPHY & FURTHER READING
+
+*******
+
+EVEN MORE SPECIFIC TOC
+
+  BASICS
+    EXPLANATION OF CAPITAL MARKETS
+      what is capital markets
+      why is capital markets important / what would happen without capital markets / what happens when the capital markets dry up?
+      who are the players in the capital markets space
+      where (geographically) are the capital markets
+      other economic/legal areas that are implicated: corporate governance, m&a, leverage finance, real estate, derivatives, structured finance, real estate
+    HISTORY
+      how did the capital markets come to be?
+      pre-1933
+      post-1933
+    TYPES OF TRANSACTIONS AND INSTRUMENTS
+      grid of understanding - reporting vs. transactions // public vs. private // equity vs. debt // offering vs. purchases
+      equity: ipos, secondary offerings, registration rights, 
+      debt: registered vanilla ig bonds, hyb, securitizations, private placement, sovereign bond, eurobonds 
+      non-offering equity: share buyback, tender offer in context of mergers, pipe
+      liability management: tender offers, exchange offers, distressed debt
+  BREAKDOWNS
+    STATUTES
+      foundational: securities act of 1933, securities exchange act of 1934, trust indenture act of 1939
+      investment funds: investment company act of 1940, investment advisers act of 1940
+      modern: sarbanes-oxley act of 2002, dodd-frank wall street reform and consumer protection act of 2010, jumpstart our business startups (jobs) act of 2012
+      note: for each of the statutes, i'll address the following points:
+        where you can find it (statutory citation / electronic location)
+        what it does
+        why it's important
+        what are the important rules and regulations that spin off of this
+        text itself
+        section-by-section annotated review
+    RULES & REGULATIONS
+      securities act regulations
+      exchange act regulations
+      (list of regulations: rule 144a, regulation s, regulation d, rule 144, regulation fd, regulation g (european apms), 
+      regulation s-x, regulation s-k, regulation m, regulation a, regulation s-t
+      note: for each of the regulations, i'll address the following points:
+        where you can find it (citation / electornic location)
+        what it does
+        why it's important
+        what statute this ties to
+        what other, if any, rules and/or regulations this ties to
+        text itself
+        section-by-section annotated review
+    FORMS
+      [brainstormed list: 10-k, 10-q, 8-k, 20-f, 6-k, s-1, s-3, f-1, f-3, etc.]
+      note: for each of the forms, i'll address the following points:
+        where you can find it
+        law and regulation that it relates to
+        text itself
+        annotation
+  CONCEPTS
+    materiality
+    all or subtantially all
+  TRANSACTIONS, DOCUMENTS, WORKSTREAMS
+    note: for each of the items here, i'll address the following:
+      what is it
+      why it's important
+      what transactions they relate to
+      what they typically contain
+      timeline associated with the document or workstream
+      checklist for reviewing / negotiating the document
+      annotations & explanation
+      forms & examples
+    TRANSACTIONS
+    DOCUMENTS
+      disclosure: registration statement, annual report, current report, quarterly report, offering memoranda/document, description of notes, prospectus (base prospectus and supplement), private placement memoranda, free writing prospectuses (incl. pricing term sheets), roadshow presentations
+      principal document: underwriting agreement, purchase agreement, agreement among underwriters / initial purchasers, registration rights agreement, indenture
+      other documents: comfort letter, opinions, negative assurance letter (10b-5 disclosure), specialist reports, closing certificates, due diligence questions, due diligence request list, backup certificate
+    WORKSTREAMS
+      transaction authorization
+      due diligence
+      disclosure drafting
+      comfort
+      backup
+      don negotiation
+      ua negotiation
+      pricing
+      closing
+      indenture drafting
+  OTHER ISSUES
+    instruments: adrs, common stock, preferred stock, convertible notes, notes, investment grade notes, co-co's, high-yield bonds, green bonds, commercial paper, derivatives, municipal bonds
+    tax concerns
+    [theory vs. substance, practice guidance, debt insolvency, credit structuring, credit ratings, technology opportunities, cryptocurrencies, market abuse regulation, insider trading, registration, listings]
+  GLOSSARY OF TERMS
+  BIBLIOGRAPHY & FURTHER READING
